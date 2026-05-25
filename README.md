@@ -51,8 +51,8 @@ I am an AI/ML Engineer graduating in June 2026, with over 1.5 years of experienc
 
 *(Note: Replace `yourusername` with your actual GitHub username to populate these cards dynamically!)*
 
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devilkd23&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devilkd23&layout=compact&theme=tokyonight)
 
 ---
 
