@@ -1,3 +1,67 @@
+# Hi there, I'm Kartik Dani 👋 
+
+### AI/ML Engineer | Production LLM/NLP Systems | Scalable ML Infrastructure
+
+I am an AI/ML Engineer graduating in June 2026, with over 1.5 years of experience architecting and deploying production-grade deep learning systems, optimizing large language models, and handling planetary-scale data. From accelerating compute pipelines on hardware like NVIDIA H100s to leading multi-disciplinary engineering initiatives for national infrastructure, I focus on building fast, scalable, and reliable intelligence systems.
+
+---
+
+## 🚀 Key Highlights & Impact
+
+- **⚡ Compute Optimization:** Engineered NVIDIA H100 training optimizations for 12B-parameter LLMs, slashing per-epoch training times by 40% (450s down to 270s) to accelerate experimentation cycles.
+- **🌍 Engineering Leadership:** Orchestrated 3 cross-functional research teams (28+ data scientists/engineers) at the Indian Meteorological Department to build core pipelines handling 100M+ real-time sensor readings for national forecasting.
+- **🧬 BioNLP & Production AI:** Fine-tuned Transformer models (BERT, T5 via LoRA) for pharmaceutical applications, delivering a confidential classification system handling 10K+ daily documents at 94% accuracy and sub-180ms inference latency.
+- **🏆 Hackathon Champion:** Winner of CMR Hackfest 2.0 with a transfer-learning computer vision system optimizing data augmentation pipelines.
+
+---
+
+## 🛠️ Tech Stack & Tooling
+
+| Category | Technologies & Frameworks |
+| :--- | :--- |
+| **LLMs & NLP** | Transformers (BERT, T5, LLaMA), LoRA Fine-Tuning, RAG, Agentic AI Architectures, Embeddings & Semantic Search |
+| **Deep Learning** | PyTorch, TensorFlow, CNNs (Inception-V3), RNNs/LSTMs, Transfer Learning |
+| **ML Systems & MLOps** | End-to-End ML Pipelines, Model Serving & Optimization, MLflow, Weights & Biases, Docker, FastAPI |
+| **Data & Compute** | Python (Pandas, NumPy, Scikit-learn), SQL, NVIDIA H100, CUDA Programming, Big Data Pipelines, Vector Databases |
+| **Tools & Platforms** | Git, Google Colab, Jupyter, VS Code |
+
+---
+
+## 📂 Featured Repositories
+
+### 🌦️ [Weather Forecasting & Disaster Early Warning System](https://github.com/yourusername/weather-lstm-ensemble)
+> **Stack:** PyTorch, Time-Series Analysis, LSTMs
+- Developed an LSTM ensemble architecture for 7-day rainfall and temperature prediction across 3,500+ Automatic Weather Stations with 87% accuracy.
+- Built a missing-data recovery pipeline that restored 35K+ records from hardware faults, boosting dataset integrity by 28%.
+- Operationalized into production supporting India's national disaster early warning system.
+
+### 🌿 [Disease & Pest Identification System](https://github.com/yourusername/plant-disease-detection)
+> **Stack:** PyTorch, Inception-V3, Computer Vision | *CMR Hackfest 2.0 Winner*
+- Built a transfer-learning CNN model achieving 94.2% accuracy on the PlantDoc dataset (15K images, 40 classes), outperforming the baseline by 12.2%.
+- Engineered custom data augmentation pipelines expanding the training set from 8K to 15K samples to combat overfitting.
+
+### 🤖 [Agentic AI Architecture Frameworks](https://github.com/yourusername/agentic-ai-blueprints)
+> **Stack:** Transformers, Prompt Engineering, Multi-Agent Orchestration
+- Curated architectures and deployment strategies for multi-agent LLM pipelines.
+- Derived from technical training delivered to 15+ data scientists and engineering teams on productionizing complex LLM workflows.
+
+---
+
+## 📊 GitHub Stats & Activity
+
+*(Note: Replace `yourusername` with your actual GitHub username to populate these cards dynamically!)*
+
+![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/kartik-dani-067446257](https://www.linkedin.com/in/kartik-dani-067446257)
+- **Email:** [kartikdani2310@gmail.com](mailto:kartikdani2310@gmail.com)
+- **Portfolio / Blog:** *(Optional: Add your personal website link or Medium/Hashnode link here)*
+
 ## 🛠️ Technical Ecosystem & Tooling
 
 To explore my specialized toolkits, architectural expertise, and engineering frameworks, toggle the dropdown menus below:
